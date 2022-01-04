@@ -1,0 +1,22 @@
+
+#main-heading{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600 ;
+    font-size: 3.2rem;
+    color: rgba(17, 17, 233, 0.788);
+}
+#row-content{
+    margin-right: 0 ;
+}
+
+p{
+    font-family: 'Dancing Script', cursive;
+ font-weight:bolder !important;
+ font-size: 2rem;
+ color:rgba(37, 46, 172, 0.979) ;
+}
+span{
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.2rem;
+    color:rgba(37, 46, 172, 0.979)  ;
+}
